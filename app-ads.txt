@@ -1,3 +1,5 @@
+facebook.com, 1307548293842127, DIRECT, c3e20eee3f780d68
+
 #Appodeal
 
 appodeal.com, 253014, DIRECT
